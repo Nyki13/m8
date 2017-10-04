@@ -1,0 +1,37 @@
+UF1 - DNS i DHCP
+================
+
+Servei - son utilitats i funcionalitats que s'ofereixen als clients. 
+		-> Ho ofereixen els servidors
+		-> Estan tota l'estona escoltant
+
+protocol - conjunt de regles o normes que s'han de seguir per poder donar un servei
+		->TCP/UDP (ens quedarem principalment amb la UDP)
+
+DNS - Permet donar un nom a partir d'una ip i viceversa
+		-> 
+
+Domini -  
+
+Sistema distribuit -  
+
+TDL - top domain level -  ex: .com , .org ..
+
+subdomini - google, youtube, ...etc.
+
+DNS
+---
+
+Protocl UDP
+port 53
+conexió client-servidor
+
+/etc/hosts - 
+
+- nslookup - per saber la ip dels dominis
+
+
+Ports
+-----
+
+
